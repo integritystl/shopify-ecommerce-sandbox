@@ -9,7 +9,8 @@ A Shopify-based eCommerce solution
 
 ## :link: Important Links
 - [Master Feature List](https://docs.google.com/spreadsheets/d/1GatBkikuXrhTHyVNo0IZ902Zy9ZnIUqJ5BGagJklICA/edit#gid=0)
-- [Wireframes](https://app.flowmapp.com/share/de9f7a5bc4f95f1fccfeca0b920847c9/sitemap/)
+- [Design/Wireframes](https://www.figma.com/proto/2A9Z3gRSRXE4HVIvLTVfbr/jiffysteamer.com?node-id=30%3A94&viewport=890%2C274%2C0.25&scaling=min-zoom)
+- [Sitemap](https://app.flowmapp.com/share/de9f7a5bc4f95f1fccfeca0b920847c9/sitemap/)
 - [Sitemap](https://docs.google.com/spreadsheets/d/1VEWnS7yJvs0s9ouCTBvWzLU8GA_QU5m5rfW-m9nJrqY/edit#gid=0)
 
 

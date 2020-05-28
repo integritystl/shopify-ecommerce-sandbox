@@ -24,8 +24,7 @@ A Shopify-based eCommerce solution
 ## :wrench: Spin up
 
 * [Node](https://nodejs.org/)
-* [MAMP Pro](https://www.mamp.info/en/mamp-pro/)
-* [Sequel Pro](https://sequelpro.com/)
+* [ThemeKit](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
 
 **If you have the above installed, run these commands in order:**
 

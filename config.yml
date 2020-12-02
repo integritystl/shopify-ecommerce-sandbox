@@ -1,4 +1,9 @@
-development:
+production:
   password: 2c96ac19794b436f9e7d77bf9147ccdc
   theme_id: "91498348675"
+  store: schwag-shop.myshopify.com
+
+development:
+  password: 2c96ac19794b436f9e7d77bf9147ccdc
+  theme_id: "116068679847"
   store: schwag-shop.myshopify.com
